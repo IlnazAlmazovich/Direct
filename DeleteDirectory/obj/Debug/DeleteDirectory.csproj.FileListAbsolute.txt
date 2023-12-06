@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\bin\Debug\DeleteDirectory.exe.config
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\bin\Debug\DeleteDirectory.exe
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\bin\Debug\DeleteDirectory.pdb
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\obj\Debug\DeleteDirectory.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\obj\Debug\DeleteDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\obj\Debug\DeleteDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\obj\Debug\DeleteDirectory.exe
+C:\Users\Пользователь\Desktop\Directory-master\DeleteDirectory\obj\Debug\DeleteDirectory.pdb

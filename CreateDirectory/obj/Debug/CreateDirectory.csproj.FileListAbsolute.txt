@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\bin\Debug\CreateDirectory.exe.config
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\bin\Debug\CreateDirectory.exe
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\bin\Debug\CreateDirectory.pdb
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\obj\Debug\CreateDirectory.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\obj\Debug\CreateDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\obj\Debug\CreateDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\obj\Debug\CreateDirectory.exe
+C:\Users\Пользователь\Desktop\Directory-master\CreateDirectory\obj\Debug\CreateDirectory.pdb

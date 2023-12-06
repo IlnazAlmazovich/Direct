@@ -1,0 +1,16 @@
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\bin\Debug\Directori.exe.config
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\bin\Debug\Directori.exe
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\bin\Debug\Directori.pdb
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\obj\Debug\Directori.csproj.AssemblyReference.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\obj\Debug\Directori.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\obj\Debug\Directori.csproj.CoreCompileInputs.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\obj\Debug\Directori.exe
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\Directori\obj\Debug\Directori.pdb
+C:\Users\Пользователь\Desktop\Directory-master\Directori\bin\Debug\Directori.exe.config
+C:\Users\Пользователь\Desktop\Directory-master\Directori\bin\Debug\Directori.exe
+C:\Users\Пользователь\Desktop\Directory-master\Directori\bin\Debug\Directori.pdb
+C:\Users\Пользователь\Desktop\Directory-master\Directori\obj\Debug\Directori.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Directory-master\Directori\obj\Debug\Directori.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Directory-master\Directori\obj\Debug\Directori.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Directory-master\Directori\obj\Debug\Directori.exe
+C:\Users\Пользователь\Desktop\Directory-master\Directori\obj\Debug\Directori.pdb

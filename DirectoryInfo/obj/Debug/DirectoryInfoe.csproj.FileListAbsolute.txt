@@ -1,0 +1,16 @@
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\bin\Debug\DirectoryInfo.exe.config
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\bin\Debug\DirectoryInfo.exe
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\bin\Debug\DirectoryInfo.pdb
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\obj\Debug\DirectoryInfoe.csproj.AssemblyReference.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\obj\Debug\DirectoryInfoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\obj\Debug\DirectoryInfoe.csproj.CoreCompileInputs.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\obj\Debug\DirectoryInfo.exe
+C:\Users\Ilnaz.Farhullin\Desktop\Directori\DirectoryInfo\obj\Debug\DirectoryInfo.pdb
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\bin\Debug\DirectoryInfo.exe.config
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\bin\Debug\DirectoryInfo.exe
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\bin\Debug\DirectoryInfo.pdb
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\obj\Debug\DirectoryInfoe.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\obj\Debug\DirectoryInfoe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\obj\Debug\DirectoryInfoe.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\obj\Debug\DirectoryInfo.exe
+C:\Users\Пользователь\Desktop\Directory-master\DirectoryInfo\obj\Debug\DirectoryInfo.pdb

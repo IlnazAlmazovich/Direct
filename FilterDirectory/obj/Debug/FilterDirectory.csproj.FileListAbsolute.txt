@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\bin\Debug\FilterDirectory.exe.config
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\bin\Debug\FilterDirectory.exe
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\bin\Debug\FilterDirectory.pdb
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\obj\Debug\FilterDirectory.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\obj\Debug\FilterDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\obj\Debug\FilterDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\obj\Debug\FilterDirectory.exe
+C:\Users\Пользователь\Desktop\Directory-master\FilterDirectory\obj\Debug\FilterDirectory.pdb
