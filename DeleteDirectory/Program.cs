@@ -16,7 +16,7 @@ namespace DeleteDirectory
             DirectoryInfo dirInfo = new DirectoryInfo(path); //создаём экземпляр класса и передаём туда путь к каталогу
             if (dirInfo.Exists) // проверяем существует ли каталог
             {
-                dirInfo.Delete();// с помощью метода Delete удаляем каталог
+                dirInfo.Delete(true);// с помощью метода Delete удаляем каталог
                 Console.WriteLine("Каталог удален");
             }
             else
